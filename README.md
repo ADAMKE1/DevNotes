@@ -1,2 +1,7 @@
-# DevNotes
-This is everything i learned to date
+# Developper Logs 
+
+## Dev Logs 
+
+#### 2025-05-09
+
+- Watching a video about Github
